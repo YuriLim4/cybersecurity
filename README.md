@@ -22,7 +22,7 @@ cd repositorio
 ```
 - **Pastas organizadas por tema**:  
   - `RedTeam/` | `BlueTeam/` | `Conceitos/`  
-  - `Projetos/` | `Guia-Rápidos/`  
+  - `Projetos/` 
 ---
 
 ## 💡 Meu Approach Pessoal  
