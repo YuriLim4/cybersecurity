@@ -21,7 +21,7 @@ O **Blue Team** é o grupo responsável por **defender sistemas, redes e dados**
 ## 📌 **Fase 1: Conceitos Básicos**
 
 ### 1. Conceitos Básicos de Segurança
-- [ ]  **Curso**: [Introduction to Cybersecurity](https://tryhackme.com/jr/introtocyber) (TryHackMe)
+- [ ]  **Curso**: [Introduction to Cybersecurity](https://tryhackme.com/module/introduction-to-cyber-security) (TryHackMe)
 - [ ]  **Leitura**: [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework) (NIST)
 
 ### 2. Redes e Sistemas Operacionais
