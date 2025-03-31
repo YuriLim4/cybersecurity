@@ -21,8 +21,7 @@ git clone https://github.com/yurilim4/cybersecurity.git
 cd repositorio  
 ```
 - **Pastas organizadas por tema**:  
-  - `RedTeam/` | `BlueTeam/` | `Conceitos/`  
-  - `Projetos/` 
+  - `RedTeam/` | `BlueTeam/` | `Conceitos/` | `Projetos/` 
 ---
 
 ## 💡 Meu Approach Pessoal  
