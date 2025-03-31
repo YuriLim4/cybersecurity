@@ -20,7 +20,9 @@ Este espaço é dedicado ao meu aprendizado contínuo em **Segurança Cibernéti
 git clone https://github.com/yurilim4/cybersecurity.git  
 cd repositorio  
 ```
-
+- **Pastas organizadas por tema**:  
+  - `RedTeam/` | `BlueTeam/` | `Conceitos/`  
+  - `Projetos/` | `Guia-Rápidos/`  
 ---
 
 ## 💡 Meu Approach Pessoal  
