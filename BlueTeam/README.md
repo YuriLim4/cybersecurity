@@ -72,7 +72,7 @@ O **Blue Team** é o grupo responsável por **defender sistemas, redes e dados**
 
 ### Plataformas de Prática:
 - [Blue Team Labs Online](https://blueteamlabs.online/)
-- [Cyber Defenders](https://cyberdefenders.org/))
+- [Cyber Defenders](https://cyberdefenders.org/)
 
 ### Comunidades:
 - [Blue Team Subreddit](https://www.reddit.com/r/cybersecurity/)
