@@ -16,7 +16,7 @@ O **Blue Team** é o grupo responsável por **defender sistemas, redes e dados**
 
 ---
 
-## 📘 Roadmap de Aprendizado (Minha Jornada)  
+# 📘 Roadmap de Aprendizado (Minha Jornada)  
 
 ## 📌 **Fase 1: Conceitos Básicos**
 
@@ -80,7 +80,7 @@ O **Blue Team** é o grupo responsável por **defender sistemas, redes e dados**
 
 ### 💡 **Dica**: Documente seu progresso no GitHub e participe de CTFs defensivos!
 
-## 🤝 Como Contribuir  
+# 🤝 Como Contribuir  
 Encontrou um erro ou tem uma dica? **Vamos aprender juntos!**  
 1. Abra uma **issue** para discutir ideias.  
 2. Envie um **pull request** com melhorias.  
