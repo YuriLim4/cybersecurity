@@ -1,7 +1,7 @@
 # 🔵 Blue Team: Defensive Team
 
 **Bem-vindo(a) ao meu espaço sobre Blue Team!**  
-Este repositório documenta minha jornada no lado defensivo da segurança cibernética, com foco em **detecção, resposta a incidentes e proteção proativa**. Estaremos usando a plataforma da [ALURA](alura.com.br) para realizar alguns cursos e obter conhecimento junto a suas certificações..  
+Este repositório documenta minha jornada no lado defensivo da segurança cibernética, com foco em **detecção, resposta a incidentes e proteção proativa**. Usarei plataformas como [TryHackMe](https://tryhackme.com/), [Hack The Box](https://www.hackthebox.com/), e cursos da [Alura](https://www.alura.com.br/) para aprimorar minhas habilidades.   
 
 ---
 
