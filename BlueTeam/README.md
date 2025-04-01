@@ -1,7 +1,7 @@
 # 🔵 Blue Team: Defensive Team
 
 **Bem-vindo(a) ao meu espaço sobre Blue Team!**  
-Este repositório documenta minha jornada no lado defensivo da segurança cibernética, com foco em **detecção, resposta a incidentes e proteção proativa**.  
+Este repositório documenta minha jornada no lado defensivo da segurança cibernética, com foco em **detecção, resposta a incidentes e proteção proativa**. Estaremos usando a plataforma da [ALURA](alura.com.br) para realizar alguns cursos e obter conhecimento junto a suas certificações..  
 
 ---
 
@@ -21,51 +21,51 @@ O **Blue Team** é o grupo responsável por **defender sistemas, redes e dados**
 ## 📌 **Fase 1: Conceitos Básicos**
 
 ### 1. Conceitos Básicos de Segurança
-- [x]  **Curso**: [Introduction to Cybersecurity](https://tryhackme.com/module/introduction-to-cyber-security) (TryHackMe)
-- [x]  **Leitura**: [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework) (NIST)
+- [ ]  **Curso**: [Cibersegurança para todos](https://cursos.alura.com.br/course/ciberseguranca-para-todos-proteja-empresa-contra-ciberataques) (Alura)
+- [ ]  **Leitura**: [NIST Cybersecurity Framework](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf) (NIST)
 
 ### 2. Redes e Sistemas Operacionais
-- [x]  **Curso**: [What is Networking](https://tryhackme.com/room/whatisnetworking) (TryHackMe)
-- [x]  **Laboratório**: [Linux Fundamentals](https://overthewire.org/wargames/bandit/) (OverTheWire)
+- [ ]  **Curso**: [Redes](https://cursos.alura.com.br/formacao-redes) (Alura)
+- [ ]  **Laboratório**: [Linux Fundamentals](https://overthewire.org/wargames/bandit/) (OverTheWire)
 
 ## 📌 Fase 2: Ferramentas Defensivas
 
 ### 1. SIEM e Análise de Logs
-- [X]  **Curso**: [Splunk Fundamentals](https://www.splunk.com/en_us/training/free-courses/splunk-fundamentals-1.html) (Splunk)
-- [X]  **Laboratório**: [Wazuh Lab](https://documentation.wazuh.com/current/learning-wazuh/index.html) (Wazuh Docs)
+- [ ]  **Curso**: [Segurança de Rede](https://cursos.alura.com.br/course/seguranca-rede-firewall-waf-siem) (Alura)
+- [ ]  **Laboratório**: [Wazuh Lab](https://documentation.wazuh.com/current/learning-wazuh/index.html) (Wazuh Docs)
 
-### 2. Proteção de Endpoints
-- [X]  **Curso**: [Microsoft Defender introduction](https://learn.microsoft.com/en-us/training/modules/m365-introduction-defender-endpoint/) (Microsoft Learn)
-- [X]  **Laboratório**: [Elastic Security](https://www.elastic.co/security-labs) (Elastic)
+### 2. Proteção de Dados
+- [ ]  **Curso**: [Proteção de dados](https://cursos.alura.com.br/course/governanca-dados-garantindo-privacidade-protecao-dados-futuro-seguro) (Alura)
+- [ ]  **Leitura**: [LGPD](https://www.gov.br/esporte/pt-br/acesso-a-informacao/lgpd) (GOV)
 
 ## 📌 Fase 3: Engenharia Social e OSINT Defensivo
 
 ### 1. Defesa contra Engenharia Social
-- [X]  **Curso**: [Social Engineering Awareness](https://purplesec.us/learn/social-engineering-awareness-training/) (CISA)
-- [X]  **Laboratório**: [Phishing Analysis](https://letsdefend.io/) (LetsDefend)
+- [ ]  **Curso**: [Social Engineering Awareness](https://purplesec.us/learn/social-engineering-awareness-training/) (Purplesec)
+- [ ]  **Laboratório**: [Phishing Analysis](https://letsdefend.io/) (LetsDefend)
 
 ### 2. OSINT para Defesa
-- [X]  **Curso**: [OSINT Basics](https://training.kapsuungroup.com/courses/osint-beginners-course) (Kapsuungroup)
-- [X]  **Ferramenta**: [OSINT Framework](https://osintframework.com/)
+- [ ]  **Curso**: [OSINT Basics](https://training.kapsuungroup.com/courses/osint-beginners-course) (Kapsuungroup)
+- [ ]  **Ferramenta**: [OSINT Framework](https://osintframework.com/) (Osintframework)
 
 ## 📌 Fase 4: Políticas e Governança
 
 ### 1. Criação de Políticas
-- [X]  **Guia**: [NIST SP 800-53](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) (NIST)
-- [X]  **Template**: [Security Policy Templates](https://www.sans.org/information-security-policy/) (SANS)
+- [ ]  **Guia**: [NIST SP 800-53](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) (NIST)
+- [ ]  **Template**: [Security Policy Templates](https://www.sans.org/information-security-policy/) (SANS)
 
 ### 2. Resposta a Incidentes
-- [X]  **Curso**: [Incident Response](https://tryhackme.com/room/incidentresponseprocess) (TryHackMe)
-- [X]  **Playbook**: [FIRST IR Playbooks](https://www.first.org/resources/guides/)
+- [ ]  **Curso**: [Incident Response](https://tryhackme.com/room/incidentresponseprocess) (TryHackMe)
+- [ ]  **Playbook**: [FIRST IR Playbooks](https://www.first.org/resources/guides/) (First)
 
 ## 📌 Fase 5: Tópicos Avançados
 
 ### 1. Threat Hunting
-- [X]  **Curso**: [Threat Hunting](https://tryhackme.com/room/introductiontothreathunting) (TryHackMe)
-- [X]  **Framework**: [MITRE ATT&CK](https://attack.mitre.org/)
+- [ ]  **Curso**: [Threat Hunting](https://tryhackme.com/room/introductiontothreathunting) (TryHackMe)
+- [ ]  **Framework**: [MITRE ATT&CK](https://attack.mitre.org/) (Attack)
 
 ### 2. Hardening de Sistemas
-- [X]  **Guia**: [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/) (CIS)
+- [ ]  **Guia**: [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/) (CIS)
 - [ ]  **Laboratório**: [Active Directory Hardening](https://tryhackme.com/room/activedirectoryhardening) (TryHackMe)
 
 ## 📚 Recursos Adicionais Gratuitos
