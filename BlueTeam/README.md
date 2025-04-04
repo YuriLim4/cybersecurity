@@ -21,11 +21,11 @@ O **Blue Team** é o grupo responsável por **defender sistemas, redes e dados**
 ## 📌 **Fase 1: Conceitos Básicos**
 
 ### 1. Conceitos Básicos de Segurança
-- [ ]  **Curso**: [Cibersegurança para todos](https://cursos.alura.com.br/course/ciberseguranca-para-todos-proteja-empresa-contra-ciberataques) (Alura)
-- [ ]  **Leitura**: [NIST Cybersecurity Framework](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf) (NIST)
+- [x]  **Curso**: [Cibersegurança para todos](https://cursos.alura.com.br/course/ciberseguranca-para-todos-proteja-empresa-contra-ciberataques) (Alura)
+- [x]  **Leitura**: [NIST Cybersecurity Framework](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf) (NIST)
 
 ### 2. Redes e Sistemas Operacionais
-- [ ]  **Curso**: [Redes](https://cursos.alura.com.br/formacao-redes) (Alura)
+- [x]  **Curso**: [Redes](https://cursos.alura.com.br/formacao-redes) (Alura)
 - [ ]  **Laboratório**: [Linux Fundamentals](https://overthewire.org/wargames/bandit/) (OverTheWire)
 
 ## 📌 Fase 2: Ferramentas Defensivas
