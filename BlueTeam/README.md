@@ -26,13 +26,13 @@ O **Blue Team** é o grupo responsável por **defender sistemas, redes e dados**
 
 ### 2. Redes e Sistemas Operacionais
 - [x]  **Curso**: [Redes](https://cursos.alura.com.br/formacao-redes) (Alura)
-- [ ]  **Laboratório**: [Linux Fundamentals](https://overthewire.org/wargames/bandit/) (OverTheWire)
+- [x]  **Laboratório**: [Linux Fundamentals](https://overthewire.org/wargames/bandit/) (OverTheWire)
 
 ## 📌 Fase 2: Ferramentas Defensivas
 
 ### 1. SIEM e Análise de Logs
-- [ ]  **Curso**: [Segurança de Rede](https://cursos.alura.com.br/course/seguranca-rede-firewall-waf-siem) (Alura)
-- [ ]  **Laboratório**: [Wazuh Lab](https://documentation.wazuh.com/current/learning-wazuh/index.html) (Wazuh Docs)
+- [x]  **Curso**: [Segurança de Rede](https://cursos.alura.com.br/course/seguranca-rede-firewall-waf-siem) (Alura)
+- [x]  **Laboratório**: [Wazuh Lab](https://documentation.wazuh.com/current/learning-wazuh/index.html) (Wazuh Docs)
 
 ### 2. Proteção de Dados
 - [ ]  **Curso**: [Proteção de dados](https://cursos.alura.com.br/course/governanca-dados-garantindo-privacidade-protecao-dados-futuro-seguro) (Alura)
