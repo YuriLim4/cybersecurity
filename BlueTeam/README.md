@@ -41,8 +41,8 @@ O **Blue Team** é o grupo responsável por **defender sistemas, redes e dados**
 ## 📌 Fase 3: Engenharia Social e OSINT Defensivo
 
 ### 1. Defesa contra Engenharia Social
-- [ ]  **Curso**: [Social Engineering Awareness](https://purplesec.us/learn/social-engineering-awareness-training/) (Purplesec)
-- [ ]  **Laboratório**: [Phishing Analysis](https://letsdefend.io/) (LetsDefend)
+- [X]  **Curso**: [Social Engineering Awareness](https://purplesec.us/learn/social-engineering-awareness-training/) (Purplesec)
+- [X]  **Laboratório**: [Phishing Analysis](https://letsdefend.io/) (LetsDefend)
 
 ### 2. OSINT para Defesa
 - [ ]  **Curso**: [OSINT Basics](https://training.kapsuungroup.com/courses/osint-beginners-course) (Kapsuungroup)
