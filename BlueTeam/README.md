@@ -78,6 +78,14 @@ O **Blue Team** é o grupo responsável por **defender sistemas, redes e dados**
 - [Blue Team Subreddit](https://www.reddit.com/r/cybersecurity/)
 - [Uaisint Linkedin](https://www.linkedin.com/groups/10060469/)
 
+### Acompanhe SEMPRE:
+- [DefConLab](https://defconlab.org)
+- [Cisoadvisor](https://cisoadvisor.com.br)
+- [SegInfo](https://seginfo.com.br)
+- [MenteBinária](https://mentebinaria.com.br)
+- [SegurançaLegal](https://segurancalegal.com)
+- [TheHackerNews](https://thehackernews.com)
+
 ### 💡 **Dica**: Documente seu progresso no GitHub e participe de CTFs defensivos!
 
 # 🤝 Como Contribuir  
