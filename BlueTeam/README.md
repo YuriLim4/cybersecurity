@@ -35,8 +35,8 @@ O **Blue Team** é o grupo responsável por **defender sistemas, redes e dados**
 - [x]  **Laboratório**: [Wazuh Lab](https://documentation.wazuh.com/current/learning-wazuh/index.html) (Wazuh Docs)
 
 ### 2. Proteção de Dados
-- [ ]  **Curso**: [Proteção de dados](https://cursos.alura.com.br/course/governanca-dados-garantindo-privacidade-protecao-dados-futuro-seguro) (Alura)
-- [ ]  **Leitura**: [LGPD](https://www.gov.br/esporte/pt-br/acesso-a-informacao/lgpd) (GOV)
+- [X]  **Curso**: [Proteção de dados](https://cursos.alura.com.br/course/governanca-dados-garantindo-privacidade-protecao-dados-futuro-seguro) (Alura)
+- [X]  **Leitura**: [LGPD](https://www.gov.br/esporte/pt-br/acesso-a-informacao/lgpd) (GOV)
 
 ## 📌 Fase 3: Engenharia Social e OSINT Defensivo
 
