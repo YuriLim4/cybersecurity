@@ -88,7 +88,7 @@ O **Blue Team** é o grupo responsável por **defender sistemas, redes e dados**
 
 
 ### Ferramentas de pesquisa online
--[Webmii](webmii.com)
+- [Webmii](webmii.com)
 
 ### 💡 **Dica**: Documente seu progresso no GitHub e participe de CTFs defensivos!
 
