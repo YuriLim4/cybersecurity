@@ -46,7 +46,7 @@ O **Blue Team** é o grupo responsável por **defender sistemas, redes e dados**
 
 ### 2. OSINT para Defesa
 - [ ]  **Curso**: [OSINT Basics](https://training.kapsuungroup.com/courses/osint-beginners-course) (Kapsuungroup)
-- [ ]  **Ferramenta**: [OSINT Framework](https://osintframework.com/) (Osintframework)
+- [X]  **Ferramenta**: [OSINT Framework](https://osintframework.com/) (Osintframework)
 
 ## 📌 Fase 4: Políticas e Governança
 
