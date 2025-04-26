@@ -45,14 +45,14 @@ O **Blue Team** é o grupo responsável por **defender sistemas, redes e dados**
 - [X]  **Laboratório**: [Phishing Analysis](https://letsdefend.io/) (LetsDefend)
 
 ### 2. OSINT para Defesa
-- [ ]  **Curso**: [OSINT Basics](https://training.kapsuungroup.com/courses/osint-beginners-course) (Kapsuungroup)
+- [X]  **Curso**: [OSINT Basics](https://training.kapsuungroup.com/courses/osint-beginners-course) (Kapsuungroup)
 - [X]  **Ferramenta**: [OSINT Framework](https://osintframework.com/) (Osintframework)
 
 ## 📌 Fase 4: Políticas e Governança
 
 ### 1. Criação de Políticas
-- [ ]  **Guia**: [NIST SP 800-53](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) (NIST)
-- [ ]  **Template**: [Security Policy Templates](https://www.sans.org/information-security-policy/) (SANS)
+- [X]  **Guia**: [NIST SP 800-53](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) (NIST)
+- [X]  **Template**: [Security Policy Templates](https://www.sans.org/information-security-policy/) (SANS)
 
 ### 2. Resposta a Incidentes
 - [ ]  **Curso**: [Incident Response](https://tryhackme.com/room/incidentresponseprocess) (TryHackMe)
