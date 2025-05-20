@@ -45,18 +45,18 @@ O **Blue Team** é o grupo responsável por **defender sistemas, redes e dados**
 - [X]  **Laboratório**: [Phishing Analysis](https://letsdefend.io/) (LetsDefend)
 
 ### 2. OSINT para Defesa
-- [ ]  **Curso**: [OSINT Basics](https://training.kapsuungroup.com/courses/osint-beginners-course) (Kapsuungroup)
-- [ ]  **Ferramenta**: [OSINT Framework](https://osintframework.com/) (Osintframework)
+- [X]  **Curso**: [OSINT Basics](https://training.kapsuungroup.com/courses/osint-beginners-course) (Kapsuungroup)
+- [X]  **Ferramenta**: [OSINT Framework](https://osintframework.com/) (Osintframework)
 
 ## 📌 Fase 4: Políticas e Governança
 
 ### 1. Criação de Políticas
-- [ ]  **Guia**: [NIST SP 800-53](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) (NIST)
-- [ ]  **Template**: [Security Policy Templates](https://www.sans.org/information-security-policy/) (SANS)
+- [X]  **Guia**: [NIST SP 800-53](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) (NIST)
+- [X]  **Template**: [Security Policy Templates](https://www.sans.org/information-security-policy/) (SANS)
 
 ### 2. Resposta a Incidentes
-- [ ]  **Curso**: [Incident Response](https://tryhackme.com/room/incidentresponseprocess) (TryHackMe)
-- [ ]  **Playbook**: [FIRST IR Playbooks](https://www.first.org/resources/guides/) (First)
+- [X]  **Curso**: [Incident Response](https://tryhackme.com/room/incidentresponseprocess) (TryHackMe)
+- [X]  **Playbook**: [FIRST IR Playbooks](https://www.first.org/resources/guides/) (First)
 
 ## 📌 Fase 5: Tópicos Avançados
 
@@ -85,6 +85,10 @@ O **Blue Team** é o grupo responsável por **defender sistemas, redes e dados**
 - [MenteBinária](https://mentebinaria.com.br)
 - [SegurançaLegal](https://segurancalegal.com)
 - [TheHackerNews](https://thehackernews.com)
+
+
+### Ferramentas de pesquisa online
+- [Webmii](webmii.com)
 
 ### 💡 **Dica**: Documente seu progresso no GitHub e participe de CTFs defensivos!
 
