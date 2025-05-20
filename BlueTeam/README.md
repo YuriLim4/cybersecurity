@@ -55,8 +55,8 @@ O **Blue Team** é o grupo responsável por **defender sistemas, redes e dados**
 - [X]  **Template**: [Security Policy Templates](https://www.sans.org/information-security-policy/) (SANS)
 
 ### 2. Resposta a Incidentes
-- [ ]  **Curso**: [Incident Response](https://tryhackme.com/room/incidentresponseprocess) (TryHackMe)
-- [ ]  **Playbook**: [FIRST IR Playbooks](https://www.first.org/resources/guides/) (First)
+- [X]  **Curso**: [Incident Response](https://tryhackme.com/room/incidentresponseprocess) (TryHackMe)
+- [X]  **Playbook**: [FIRST IR Playbooks](https://www.first.org/resources/guides/) (First)
 
 ## 📌 Fase 5: Tópicos Avançados
 
