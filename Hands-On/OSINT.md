@@ -209,6 +209,17 @@ Dessa forma, o google buscará tudo indexado com as palavras jhondoe e XYZ.
 
 ---
 
+## 💨 Senhas Vazadas
+
+Nesta etapa, realizaremos a verificação de possíveis vazamentos de credenciais. É comum que usuários mantenham as mesmas senhas mesmo após incidentes de segurança, o que pode facilitar o comprometimento de contas em diferentes plataformas.
+
+Para a análise, utilizaremos o serviço [Have I Been Pwned](https://haveibeenpwned.com/Passwords), que permite a consulta de senhas previamente expostas em vazamentos públicos. A partir do endereço de e-mail da pessoa, é possível identificar se o mesmo foi envolvido em incidentes de segurança conhecidos.
+
+Adicionalmente, por meio da ferramenta Sherlock, já dispomos de informações como nomes de usuário, e-mails e, em alguns casos, senhas associadas a vazamentos anteriores, o que amplia o contexto da análise.
+
+
+---
+
 ## 🤝 Contribuições & Feedback  
 Encontrou algo incorreto ou tem sugestões? **Adoraria ouvir você!**  
 - Abra uma **issue** ou envie um **pull request**.  
