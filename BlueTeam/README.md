@@ -61,12 +61,12 @@ O **Blue Team** é o grupo responsável por **defender sistemas, redes e dados**
 ## 📌 Fase 5: Tópicos Avançados
 
 ### 1. Threat Hunting
-- [ ]  **Curso**: [Threat Hunting](https://tryhackme.com/room/introductiontothreathunting) (TryHackMe)
-- [ ]  **Framework**: [MITRE ATT&CK](https://attack.mitre.org/) (Attack)
+- [X]  **Curso**: [Threat Hunting](https://tryhackme.com/room/introductiontothreathunting) (TryHackMe)
+- [X]  **Framework**: [MITRE ATT&CK](https://attack.mitre.org/) (Attack)
 
 ### 2. Hardening de Sistemas
-- [ ]  **Guia**: [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/) (CIS)
-- [ ]  **Laboratório**: [Active Directory Hardening](https://tryhackme.com/room/activedirectoryhardening) (TryHackMe)
+- [X]  **Guia**: [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/) (CIS)
+- [X]  **Laboratório**: [Active Directory Hardening](https://tryhackme.com/room/activedirectoryhardening) (TryHackMe)
 
 ## 📚 Recursos Adicionais Gratuitos
 
