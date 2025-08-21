@@ -225,7 +225,7 @@ A ferramenta [Social Searcher](https://www.social-searcher.com/), permite que vo
 
 Conseguimos diretamente ligar com as informações obtidas no Google Dorks, Sherlock e outras ferramentas, na Social Searcher para obter mais informações além disso.
 
-## 🔎 Leaks, DarkWeb Sellings & Pastebins
+## 💀 Leaks, DarkWeb Sellings & Pastebins
 
 Agora que você já confirmou que o "alvo" bateu com as fotos, com sites, logins, usernames, e-mails e etc... Podemos validar dentro do Intelligence X. 
 
