@@ -1,3 +1,4 @@
+
 # 🔎 OSINT  
 
 **Open Source intelligence**  
@@ -10,7 +11,6 @@ Este espaço é dedicado ao meu aprendizado em **OSINT**. Aqui vou tentar concat
 - **Conceito Geral**: Utilização de fontes públicas para pesquisa e coleta de informações.  
 - **Aplicabilidade**: Coleta de informações "rasas ou não" de um indivíduo com a finalidade ética de conhecimento.
 
----
 
 ## ▶ Começando  
 **Vamos imaginar o seguinte caso:**
@@ -34,8 +34,6 @@ Agora você entra na primeira camada da caçada:
 - Investigar sinais de engenharia social ou exfiltração sutil de dados
 
 Esse é o início de um caso real de investigação digital, onde seu papel como hunter é essencial para preservar a integridade e a vantagem competitiva da empresa.
-
----
 
 ## 🌐 Contas em Sites
 
@@ -207,7 +205,7 @@ Dessa forma, o google buscará tudo indexado com as palavras jhondoe e XYZ.
 
 >*Mas e claro que você entendeu que esse processo que estamos fazendo, está totalmente fictício.*
 
----
+
 
 ## 💨 Senhas Vazadas
 
@@ -218,7 +216,25 @@ Para a análise, utilizaremos o serviço [Have I Been Pwned](https://haveibeenpw
 Adicionalmente, por meio da ferramenta Sherlock, já dispomos de informações como nomes de usuário, e-mails e, em alguns casos, senhas associadas a vazamentos anteriores, o que amplia o contexto da análise.
 
 
----
+
+## 🔎 Social Search
+
+Essa ferramenta está para o OSINT, assim como o Google Dorks. Ela está 100% focada nas REDES SOCIAIS, por isso não está tão efetiva em sua busca assim como o GD.
+
+A ferramenta [Social Searcher](https://www.social-searcher.com/), permite que você faça a busca de palavras, usuários e hashtags em redes sociais.
+
+Conseguimos diretamente ligar com as informações obtidas no Google Dorks, Sherlock e outras ferramentas, na Social Searcher para obter mais informações além disso.
+
+## 🔎 Leaks, DarkWeb Sellings & Pastebins
+
+Agora que você já confirmou que o "alvo" bateu com as fotos, com sites, logins, usernames, e-mails e etc... Podemos validar dentro do Intelligence X. 
+
+A ferramenta [Intelligence X](https://intelx.io/), realiza uma pesquisa no surface, darkweb e IM para verificar vazamentos. Diferente do Have I Been Pwned, ele não te traz o local de onde aconteceu seu vazamento, mas te trás também aqueles que não foram divulgados. Um exemplo:
+
+Roubaram seus dados através de um Malware que furtou seus Cookies do navegador, colocaram em massa um .txt com milhões de contas a venda em um fórum na darkweb, ou vazou no Telegram. Aparecerá assim que você pesquisar no site se teria algum vazamento em fórum, txt e etc...
+
+Assim para meios **ÉTICOS** você não vai procurar o vazamento da senha, você apenas terá ciência que houve esse vazamento para alertar em sua hunt.
+
 
 ## 🤝 Contribuições & Feedback  
 Encontrou algo incorreto ou tem sugestões? **Adoraria ouvir você!**  
